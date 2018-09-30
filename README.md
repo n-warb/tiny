@@ -1,2 +1,3 @@
-# tiny
-The tiniest nom module
+@nwarburton/tiny
+
+[![npm (scoped)]
